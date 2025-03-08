@@ -1,0 +1,33 @@
+td, th {
+	border: 1px solid;
+  padding: 12px;
+  border: 1px solid #5c1f5c;
+  text-align: center;
+}
+  
+body {
+  background-color: #ccfcff;
+  text-align: center;
+}
+
+h1 {
+  color: #2f3451;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  background-color: rgb(222, 239, 255);
+}
+
+th {
+  background-color: #0e5fa5;
+  color: white;
+  font-size: 20px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
